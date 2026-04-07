@@ -1,5 +1,19 @@
-# 💫 About Me:
-# Hi 👋, I'm Vaibhav Tarlekar<br><br>🎓 I'm a B.Tech CSE (TY - Data Science) student at DY Patil International University  <br>💻 Passionate about building impactful tech solutions and exploring real-world applications  <br><br>## 🚀 About Me<br>- 🌱 Currently learning and improving my skills in **Data Science, Cloud Computing, and Full Stack Development**<br>- 👨‍💻 I enjoy working with **React, Node.js, MongoDB, and modern web technologies**<br>- ☁️ Exploring **AWS & Multi-Cloud Architectures**<br>- 📊 Interested in **Data Analysis, Machine Learning, and AI-driven solutions**<br>- 🔧 Love building projects that solve practical problems<br><br>## 📫 Connect With Me<br>- 💼 Open to internships and collaboration opportunities
+## 💫 About Me
+
+Hi 👋, I'm Vaibhav Tarlekar  
+
+🎓 I'm a B.Tech CSE (TY - Data Science) student at DY Patil International University  
+💻 Passionate about building impactful tech solutions and exploring real-world applications  
+
+### 🚀 About Me
+- 🌱 Currently learning and improving my skills in **Data Science, Cloud Computing, and Full Stack Development**
+- 👨‍💻 I enjoy working with **React, Node.js, MongoDB, and modern web technologies**
+- ☁️ Exploring **AWS & Multi-Cloud Architectures**
+- 📊 Interested in **Data Analysis, Machine Learning, and AI-driven solutions**
+- 🔧 Love building projects that solve practical problems
+
+### 📫 Connect With Me
+- 💼 Open to internships and collaboration opportunities
 
 
 ## 🌐 Socials:
